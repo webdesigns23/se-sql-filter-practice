@@ -1,5 +1,9 @@
 # Practice for Filtering with SQL
 
+## Introduction
+
+For this practice, you’ll begin by connecting to a SQLite database using Python and then work through a series of increasingly complex SQL tasks. These exercises cover basic filtering, column selection, string manipulation, date filtering, pattern matching with LIKE, and simple aggregations. By working with the Northwind database and various query types, you will gain practical experience in extracting and analyzing data from databases and honing your filtering skills.
+
 ## Instructions
 
 ### Set Up
